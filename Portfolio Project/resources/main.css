@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: 'Black Ops One', Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+h3, h4 {
+    font-family: 'Mukta', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+p, ul, li{
+    font-family: 'Mukta', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
